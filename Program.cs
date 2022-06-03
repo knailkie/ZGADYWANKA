@@ -10,7 +10,7 @@
 			int min = 1;
 			int max = 10;
 			r = rand.Next(min, max);
-			Console.WriteLine("Zgadnij liczbe, bo wpierdol");
+			Console.WriteLine("Zgadnij liczbe, bo wpierdol");
 			do
 			{
 				g = Convert.ToInt32(Console.ReadLine());
